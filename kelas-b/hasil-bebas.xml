@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row PROPINSI=" Kalimantan Barat"> 
+  <IBU KOTA> pontianak</IBU KOTA> 
+  <POPULASI> 516737</POPULASI></Row>
+<Row PROPINSI=" kalimantan tengah"> 
+  <IBU KOTA> palangka raya</IBU KOTA> 
+  <POPULASI> 168449</POPULASI></Row>
+<Row PROPINSI=" kalimantan selatan"> <IBU KOTA> banjarmasin</IBU KOTA> <POPULASI> 693566</POPULASI></Row>
+<Row PROPINSI=" kalimantan timur"> <IBU KOTA> samarinda</IBU KOTA> <POPULASI> 727500</POPULASI></Row>
+<Row PROPINSI=" kalimantan utara"> <IBU KOTA> tanjung selor</IBU KOTA> <POPULASI> 622350</POPULASI></Row>
+</Rows>
