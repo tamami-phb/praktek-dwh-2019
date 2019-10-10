@@ -1,0 +1,23 @@
+propinsi: Kalimantan Barat
+ibu kota: pontianak
+populasi: 516737
+
+propinsi: kalimantan tengah
+ibu kota: palangka raya
+populasi: 168449
+gubernur: agustin teras narang
+wakil gubernur: achmad diran
+
+propinsi: kalimantan selatan
+ibu kota: banjarmasin
+populasi: 693566
+
+ibu kota: samarinda
+luas wilayah (km2): 204534
+populasi: 727500
+propinsi: kalimantan timur
+
+propinsi: kalimantan utara
+populasi: 622350
+ibu kota: tanjung selor
+merupakan provinsi termuda Indonesia 
